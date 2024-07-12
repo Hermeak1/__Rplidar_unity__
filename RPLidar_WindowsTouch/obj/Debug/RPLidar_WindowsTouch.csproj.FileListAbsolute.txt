@@ -1,0 +1,39 @@
+C:\WorkSpace\2. XRISP\XrispWorkSpace\NoriCubeEachExecute\RPLidar_WindowsTouch\RPLidar_WindowsTouch\bin\Debug\dll\x86_64\RplidarCpp.dll
+C:\WorkSpace\2. XRISP\XrispWorkSpace\NoriCubeEachExecute\RPLidar_WindowsTouch\RPLidar_WindowsTouch\bin\Debug\Newtonsoft.Json.dll
+C:\WorkSpace\2. XRISP\XrispWorkSpace\NoriCubeEachExecute\RPLidar_WindowsTouch\RPLidar_WindowsTouch\bin\Debug\UnityEngine.CoreModule.dll
+C:\WorkSpace\2. XRISP\XrispWorkSpace\NoriCubeEachExecute\RPLidar_WindowsTouch\RPLidar_WindowsTouch\bin\Debug\Newtonsoft.Json.xml
+C:\WorkSpace\2. XRISP\XrispWorkSpace\NoriCubeEachExecute\RPLidar_WindowsTouch\RPLidar_WindowsTouch\obj\Debug\RPLidar_WindowsTouch.csproj.AssemblyReference.cache
+C:\WorkSpace\2. XRISP\XrispWorkSpace\NoriCubeEachExecute\RPLidar_WindowsTouch\RPLidar_WindowsTouch\obj\Debug\RPLidar_WindowsTouch.csproj.SuggestedBindingRedirects.cache
+C:\WorkSpace\2. XRISP\XrispWorkSpace\NoriCubeEachExecute\RPLidar_WindowsTouch\RPLidar_WindowsTouch\obj\Debug\RPLidar_WindowsTouch.csproj.CoreCompileInputs.cache
+C:\WorkSpace\2. XRISP\XrispWorkSpace\NoriCubeEachExecute\RPLidar_WindowsTouch\RPLidar_WindowsTouch\obj\Debug\RPLidar_WindowsTouch.csproj.CopyComplete
+C:\WorkSpace\2. XRISP\XrispWorkSpace\NoriCubeEachExecute\RPLidar_WindowsTouch\RPLidar_WindowsTouch\bin\Debug\RPLidar_WindowsTouch.exe.config
+C:\WorkSpace\2. XRISP\XrispWorkSpace\NoriCubeEachExecute\RPLidar_WindowsTouch\RPLidar_WindowsTouch\bin\Debug\RPLidar_WindowsTouch.exe
+C:\WorkSpace\2. XRISP\XrispWorkSpace\NoriCubeEachExecute\RPLidar_WindowsTouch\RPLidar_WindowsTouch\bin\Debug\RPLidar_WindowsTouch.pdb
+C:\WorkSpace\2. XRISP\XrispWorkSpace\NoriCubeEachExecute\RPLidar_WindowsTouch\RPLidar_WindowsTouch\obj\Debug\RPLidar_WindowsTouch.exe
+C:\WorkSpace\2. XRISP\XrispWorkSpace\NoriCubeEachExecute\RPLidar_WindowsTouch\RPLidar_WindowsTouch\obj\Debug\RPLidar_WindowsTouch.pdb
+Z:\WorkSpace\Xrisp\NoriCube\NoricubeEachExecutes\RPLidar_WindowsTouch\RPLidar_WindowsTouch\bin\Debug\dll\x86_64\RplidarCpp.dll
+Z:\WorkSpace\Xrisp\NoriCube\NoricubeEachExecutes\RPLidar_WindowsTouch\RPLidar_WindowsTouch\bin\Debug\RPLidar_WindowsTouch.exe.config
+Z:\WorkSpace\Xrisp\NoriCube\NoricubeEachExecutes\RPLidar_WindowsTouch\RPLidar_WindowsTouch\bin\Debug\RPLidar_WindowsTouch.exe
+Z:\WorkSpace\Xrisp\NoriCube\NoricubeEachExecutes\RPLidar_WindowsTouch\RPLidar_WindowsTouch\bin\Debug\RPLidar_WindowsTouch.pdb
+Z:\WorkSpace\Xrisp\NoriCube\NoricubeEachExecutes\RPLidar_WindowsTouch\RPLidar_WindowsTouch\bin\Debug\Newtonsoft.Json.dll
+Z:\WorkSpace\Xrisp\NoriCube\NoricubeEachExecutes\RPLidar_WindowsTouch\RPLidar_WindowsTouch\bin\Debug\UnityEngine.CoreModule.dll
+Z:\WorkSpace\Xrisp\NoriCube\NoricubeEachExecutes\RPLidar_WindowsTouch\RPLidar_WindowsTouch\bin\Debug\Newtonsoft.Json.xml
+Z:\WorkSpace\Xrisp\NoriCube\NoricubeEachExecutes\RPLidar_WindowsTouch\RPLidar_WindowsTouch\obj\Debug\RPLidar_WindowsTouch.csproj.AssemblyReference.cache
+Z:\WorkSpace\Xrisp\NoriCube\NoricubeEachExecutes\RPLidar_WindowsTouch\RPLidar_WindowsTouch\obj\Debug\RPLidar_WindowsTouch.csproj.SuggestedBindingRedirects.cache
+Z:\WorkSpace\Xrisp\NoriCube\NoricubeEachExecutes\RPLidar_WindowsTouch\RPLidar_WindowsTouch\obj\Debug\RPLidar_WindowsTouch.csproj.CoreCompileInputs.cache
+Z:\WorkSpace\Xrisp\NoriCube\NoricubeEachExecutes\RPLidar_WindowsTouch\RPLidar_WindowsTouch\obj\Debug\RPLidar_WindowsTouch.csproj.CopyComplete
+Z:\WorkSpace\Xrisp\NoriCube\NoricubeEachExecutes\RPLidar_WindowsTouch\RPLidar_WindowsTouch\obj\Debug\RPLidar_WindowsTouch.exe
+Z:\WorkSpace\Xrisp\NoriCube\NoricubeEachExecutes\RPLidar_WindowsTouch\RPLidar_WindowsTouch\obj\Debug\RPLidar_WindowsTouch.pdb
+E:\backup\noricube\RPLidar-A2M12\RPLidar_WindowsTouch\RPLidar_WindowsTouch\bin\Debug\dll\x86_64\RplidarCpp.dll
+E:\backup\noricube\RPLidar-A2M12\RPLidar_WindowsTouch\RPLidar_WindowsTouch\bin\Debug\RPLidar_WindowsTouch.exe.config
+E:\backup\noricube\RPLidar-A2M12\RPLidar_WindowsTouch\RPLidar_WindowsTouch\bin\Debug\RPLidar_WindowsTouch.exe
+E:\backup\noricube\RPLidar-A2M12\RPLidar_WindowsTouch\RPLidar_WindowsTouch\bin\Debug\RPLidar_WindowsTouch.pdb
+E:\backup\noricube\RPLidar-A2M12\RPLidar_WindowsTouch\RPLidar_WindowsTouch\bin\Debug\Newtonsoft.Json.dll
+E:\backup\noricube\RPLidar-A2M12\RPLidar_WindowsTouch\RPLidar_WindowsTouch\bin\Debug\UnityEngine.CoreModule.dll
+E:\backup\noricube\RPLidar-A2M12\RPLidar_WindowsTouch\RPLidar_WindowsTouch\bin\Debug\Newtonsoft.Json.xml
+E:\backup\noricube\RPLidar-A2M12\RPLidar_WindowsTouch\RPLidar_WindowsTouch\obj\Debug\RPLidar_WindowsTouch.csproj.AssemblyReference.cache
+E:\backup\noricube\RPLidar-A2M12\RPLidar_WindowsTouch\RPLidar_WindowsTouch\obj\Debug\RPLidar_WindowsTouch.csproj.SuggestedBindingRedirects.cache
+E:\backup\noricube\RPLidar-A2M12\RPLidar_WindowsTouch\RPLidar_WindowsTouch\obj\Debug\RPLidar_WindowsTouch.csproj.CoreCompileInputs.cache
+E:\backup\noricube\RPLidar-A2M12\RPLidar_WindowsTouch\RPLidar_WindowsTouch\obj\Debug\RPLidar_WindowsTouch.csproj.CopyComplete
+E:\backup\noricube\RPLidar-A2M12\RPLidar_WindowsTouch\RPLidar_WindowsTouch\obj\Debug\RPLidar_WindowsTouch.exe
+E:\backup\noricube\RPLidar-A2M12\RPLidar_WindowsTouch\RPLidar_WindowsTouch\obj\Debug\RPLidar_WindowsTouch.pdb
